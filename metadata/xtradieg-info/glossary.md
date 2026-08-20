@@ -1,3 +1,6 @@
+[Return to "README"'s ToC](README.md)
+<br/>
+
 # Glossary
 
 ---
