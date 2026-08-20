@@ -9,5 +9,5 @@ Various Other Miscellaneous (vom)
 Extradiegetic Information (xtradieg-info)
 <br/>
 
-Extradiegetic Behaviour (xtradieg-info)
+Extradiegetic Behaviour (xtradieg-bh)
 <br/>
