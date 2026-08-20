@@ -1,4 +1,4 @@
-</sub>[Return to "README"'s ToC](README.md)</sub>
+[Return to "README"'s ToC](README.md)
 <br/>
 
 # Glossary
