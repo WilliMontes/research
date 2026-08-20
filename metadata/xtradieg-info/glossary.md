@@ -1,4 +1,4 @@
-<span style="font-size: 12px;">[Return to "README"'s ToC](README.md)</span>
+</sub>[Return to "README"'s ToC](README.md)</sub>
 <br/>
 
 # Glossary
