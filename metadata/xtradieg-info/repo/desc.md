@@ -1,0 +1,1 @@
+Repository to share computational/coding related resources for and/or from scientific research, such as biomarker (e.g., EEG) treatment pipelines, full studies' data (transformation and statistical) analysis R scripts or specific useful R functions.
